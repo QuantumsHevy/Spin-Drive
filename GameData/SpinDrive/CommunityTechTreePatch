@@ -1,0 +1,12 @@
+@PART[SpinDrive]:NEEDS[CommunityTechTree]
+{
+    @TechRequired = exoticNuclearPropulsion
+}
+@PART[SpinDriveCluster]:NEEDS[CommunityTechTree]
+{
+    @TechRequired = exoticNuclearPropulsion
+}
+@PART[AstrophageGenerator]:NEEDS[CommunityTechTree]
+{
+    @TechRequired = exoticNuclearPropulsion
+}
