@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / build artifacts
+*.user
+*.suo
+obj/
+bin/
+
+# Release ZIPs (build these via CI, don't commit them)
+*.zip
