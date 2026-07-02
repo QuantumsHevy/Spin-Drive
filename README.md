@@ -28,7 +28,7 @@ These mods are **required** for SpinDrive to run! There is no CKAN support yet; 
 ## Compatibilities
 These mods are **not required** for the SpinDrive mod to run, but are currently supported through patches.
 
-- [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles) and [ReStock Plus](https://github.com/PorktoberRevolution/ReStocked)
+- [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles), [CryoTanks](https://github.com/post-kerbin-mining-corporation/CryoTanks/releases) and [ReStock Plus](https://github.com/PorktoberRevolution/ReStocked)
   - Allows more sizes of astrophage fuel tanks to be used in your craft.
 - [Waterfall](https://github.com/KSPModStewards/Waterfall)
   - Astrophage engines have custom Waterfall plumes.
