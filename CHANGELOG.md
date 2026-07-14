@@ -1,12 +1,19 @@
 # Changelog
 All notable user-facing changes to SpinDrive are documented in this file. This mod is compatible with Kerbal Space Program 1.12.5 unless noted otherwise.
 
+## v1.0.4
+### Fixed
+- Fixed `AstrophageGenerator`'s model rotation to look more like a fuel cell when placed on a craft.
+- Fixed all parts' bulkhead profiles to match actual part size (0.3125m, 2.5m, srf).
+### Changed
+- Improved `AstrophageGenerator`'s title and description (now named "Pepper" Astrophage Fuel Cell).
+
 ## v1.0.3
-This is SpinDrive's first official GitHub release. Versions 1.0.0-.2 (below) were previously distributed on SpaceDock only; they're recorded here so the mod has one continuous history, going forward.
+This is SpinDrive's first official GitHub release. Versions 1.0.0-1.0.2 (below) were previously distributed on SpaceDock only; they're recorded here so the mod has one continuous history, going forward.
 ### Fixed
 - Removed a duplicate, packaged `FarFutureTechnologies.dll` that may conflict with any existing FFT installs.
 ### Added
-- Added an astrophage CryoTanks fuel switch patch: `@SUBTYPE[LH2/O]` now can target CryoTanks-native tanks without false-positives on FFT/BlueShift/any other non-`[LF/Ox]` tanks.
+- Added an astrophage CryoTanks fuel switch patch: `SUBTYPE[LH2/O]` now can target CryoTanks-native tanks without false-positives on FFT/BlueShift/any other non-`[LF/Ox]` tanks.
 - Added `primaryColor` and `secondaryColor` hex fields as well as an `EnrAst` resource bar abbreviation so astrophage now shows up as a red/maroon resource and is abbreviated properly in resource menus.
 
 ## v1.0.2

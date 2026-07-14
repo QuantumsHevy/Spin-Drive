@@ -13,7 +13,7 @@ Adds astrophage-powered propulsion and related parts to the game.
 
 - **TC-96 "Komarov" Spin Drive**
 - **TC-96-950 "DuBois" Spin Drive Cluster**
-- **Astrophage-Electricity Generator**
+- **"Pepper" Astrophage Fuel Cell**
 - *...and more to come!*
 
 ## Dependencies
@@ -44,8 +44,8 @@ When done correctly, the path should look like this:
 KerbalSpaceProgram/
 └── GameData/
     ├── SpinDrive/
-    │   ├── SpinDrive.cfg
-    │   ├── SpinDriveCluster.cfg
+    │   ├── Parts/
+    │   ├── Patches/
     │   └── ...
     ├── Squad/
     ├── YourOtherMods/
@@ -54,7 +54,6 @@ KerbalSpaceProgram/
 
 ## Known Issues
 
-<!-- **Astrophage tank model path**: The standalone astrophage tank part references a model path from an unrelated mod (`KODS/Parts/Astra/...`). Without that mod installed, the part renders as a placeholder mesh.-->
 - *Issues will  be listed here as they are found.*
 
 ## Credits
