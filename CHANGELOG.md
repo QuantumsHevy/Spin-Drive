@@ -1,10 +1,12 @@
 # Changelog
 All notable user-facing changes to SpinDrive are documented in this file. This mod is compatible with Kerbal Space Program 1.12.5 unless noted otherwise.
 
-## v1.0.4
+## v1.1.0
 ### Fixed
 - Fixed `AstrophageGenerator`'s model rotation to look more like a fuel cell when placed on a craft.
 - Fixed all parts' bulkhead profiles to match actual part size (0.3125m, 2.5m, srf).
+### Added
+- Added `VABOrganizer` support. All spin drives are now listed under Spin Drives within Engines, and the Astrophage Fuel Cell is now properly recognized as a fuel cell.
 ### Changed
 - Improved `AstrophageGenerator`'s title and description (now named "Pepper" Astrophage Fuel Cell).
 
