@@ -34,8 +34,8 @@ These mods are **not required** for the SpinDrive mod to run, but are currently 
   - Astrophage engines have custom Waterfall plumes.
 - [Community Tech Tree](https://github.com/post-kerbin-mining-corporation/CommunityTechTree)
   - Astrophage technology can be properly unlocked in a science or career mode save.
-- [VABOrganizer](https://github.com/KSPModStewards/VABOrganizer)
-  - Astrophage technologies are sorted into their respective subcategories within the parts list.
+- [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit) and [VABOrganizer](https://github.com/KSPModStewards/VABOrganizer)
+  - Astrophage technologies are sorted into their respective subcategories within the stock parts list, as well as within a standalone "Spin Drives" mod category.
 
 ## Installation
 

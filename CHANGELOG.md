@@ -1,5 +1,5 @@
 # Changelog
-All notable user-facing changes to SpinDrive are documented in this file. This mod is compatible with Kerbal Space Program 1.12.5 unless noted otherwise.
+All notable user-facing changes to SpinDrive are documented in this file. This mod is compatible with Kerbal Space Program 1.12.5 unless noted otherwise. Version numbers should follow semantic versioning.
 
 ## v1.1.0
 ### Fixed
@@ -7,8 +7,10 @@ All notable user-facing changes to SpinDrive are documented in this file. This m
 - Fixed all parts' bulkhead profiles to match actual part size (0.3125m, 2.5m, srf).
 ### Added
 - Added `VABOrganizer` support. All spin drives are now listed under Spin Drives within Engines, and the Astrophage Fuel Cell is now properly recognized as a fuel cell.
+- Added `CommunityCategoryKit` support with a custom "Spin Drives" category filter.
 ### Changed
 - Improved `AstrophageGenerator`'s title and description (now named "Pepper" Astrophage Fuel Cell).
+- Changed the `EnrichedAstrophage` fuel subtype's colors to match what's seen in the *Project Hail Mary* movie.
 
 ## v1.0.3
 This is SpinDrive's first official GitHub release. Versions 1.0.0-1.0.2 (below) were previously distributed on SpaceDock only; they're recorded here so the mod has one continuous history, going forward.
