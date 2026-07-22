@@ -14,6 +14,7 @@ All notable user-facing changes to SpinDrive are documented in this file. This m
 - Improved `AstrophageGenerator`'s title and description (now named "Pepper" Astrophage Fuel Cell).
 - Changed the `EnrichedAstrophage` fuel subtype's colors to match what's seen in the *Project Hail Mary* movie.
 - Changed the CryoTanks fuel switch patch to look for the `[LH2]` subtype instead of a combined `[LH2/O]` subtype.
+- Changed the `EnrAst` abbreviation to `Enriched Astrophage` so the fuel type/resource will display correctly in all relevant fields. 
 
 ## v1.0.3
 This is SpinDrive's first official GitHub release. Versions 1.0.0-1.0.2 (below) were previously distributed on SpaceDock only; they're recorded here so the mod has one continuous history, going forward.
